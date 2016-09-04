@@ -6,3 +6,9 @@ body {
 h1 {
 	color: red;
 }
+
+p {
+	color: blue;
+	background-color: white grey;
+	background-position: center;
+}
